@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectTeoriEnam</string>
+    <string name="txtKedua">Disini</string>
+    <string name="txtPertama">Saya</string>
+    <string name="btnTekan">Button</string>
+    <string name="txtEdit"></string>
+    <string name="nama">Nama</string>
+    <string name="txtKetiga">Hasil Disini</string>
+</resources>
